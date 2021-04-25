@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="UISwitchExample" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Oqr-wL-Jkm">
+                                <rect key="frame" x="154" y="391.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="ZXg-KN-Dsh"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="NZ4-AX-TdD">
+                                <rect key="frame" x="182.5" y="432.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="FGk-oj-YCz"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hhu-Z6-kux">
+                                <rect key="frame" x="123.5" y="432.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XOs-6T-1sg"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Px0-Vz-58y">
+                                <rect key="frame" x="95" y="473.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="dpC-b7-QaD"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cap-vI-d8c">
+                                <rect key="frame" x="154" y="555.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="Ega-FE-PTt"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="xI0-Rd-uX2">
+                                <rect key="frame" x="123.5" y="514.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="AXj-1n-qgE"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zvf-wi-PER">
+                                <rect key="frame" x="241.5" y="432.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="CEL-rN-L9U"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="M2N-Lw-CuB">
+                                <rect key="frame" x="213" y="473.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="4eS-SI-gRs"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Vta-Pr-2Oz">
+                                <rect key="frame" x="300.5" y="432.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="cmw-ZM-wu5"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tlW-ac-CFM">
+                                <rect key="frame" x="95" y="391.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="eov-DG-hTh"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="DUN-OC-3LW">
+                                <rect key="frame" x="182.5" y="514.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="UVV-pF-06x"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="B2I-UG-dFJ">
+                                <rect key="frame" x="64.5" y="432.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="YQJ-Yc-YJR"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="TdC-05-GNL">
+                                <rect key="frame" x="272" y="473.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="pNP-Xf-dVl"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="48G-Gj-6TK">
+                                <rect key="frame" x="213" y="391.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="gjQ-kr-Szm"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="H2P-cG-uf4">
+                                <rect key="frame" x="272" y="391.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="4eL-rv-AeA"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fTh-8e-rbt">
+                                <rect key="frame" x="123.5" y="350.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="evU-PJ-RuX"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="GyS-Oc-WOl">
+                                <rect key="frame" x="182.5" y="350.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="7ge-t5-eKy"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fGk-VN-nik">
+                                <rect key="frame" x="241.5" y="350.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="r5J-7Y-Epn"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Plt-Zn-p0e">
+                                <rect key="frame" x="241.5" y="514.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="fQ0-if-djp"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="KSx-Oo-ALg">
+                                <rect key="frame" x="213" y="555.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="tGA-eT-cTY"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hoA-ui-rnq">
+                                <rect key="frame" x="182.5" y="596.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="niv-4k-a09"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="gMD-J6-4m3">
+                                <rect key="frame" x="154" y="309.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="aoh-NB-Rfg"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="v26-aI-h7L">
+                                <rect key="frame" x="213" y="309.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="7or-EM-0ck"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="VfC-AR-c2P">
+                                <rect key="frame" x="154" y="473.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="KR2-bd-RdQ"/>
+                                </connections>
+                            </switch>
+                            <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zjM-iQ-jWy">
+                                <rect key="frame" x="182.5" y="268.5" width="51" height="31"/>
+                                <color key="onTintColor" red="0.25098039215686274" green="0.49019607843137253" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="G6E-b0-1g6"/>
+                                </connections>
+                            </switch>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="NZ4-AX-TdD" firstAttribute="leading" secondItem="hhu-Z6-kux" secondAttribute="trailing" constant="10" id="3Fg-Tq-YuU"/>
+                            <constraint firstItem="Oqr-wL-Jkm" firstAttribute="leading" secondItem="tlW-ac-CFM" secondAttribute="trailing" constant="10" id="3em-oc-qHM"/>
+                            <constraint firstItem="GyS-Oc-WOl" firstAttribute="top" secondItem="v26-aI-h7L" secondAttribute="bottom" constant="10" id="4qp-hT-FY4"/>
+                            <constraint firstItem="Plt-Zn-p0e" firstAttribute="leading" secondItem="DUN-OC-3LW" secondAttribute="trailing" constant="10" id="7Rz-gI-nW6"/>
+                            <constraint firstItem="v26-aI-h7L" firstAttribute="leading" secondItem="gMD-J6-4m3" secondAttribute="trailing" constant="10" id="7ki-tg-gvN"/>
+                            <constraint firstItem="B2I-UG-dFJ" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="7w6-WI-qNe"/>
+                            <constraint firstItem="Oqr-wL-Jkm" firstAttribute="top" secondItem="GyS-Oc-WOl" secondAttribute="bottom" constant="10" id="7x7-XY-sa8"/>
+                            <constraint firstItem="v26-aI-h7L" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="30.5" id="9E9-nt-SAt"/>
+                            <constraint firstItem="DUN-OC-3LW" firstAttribute="leading" secondItem="xI0-Rd-uX2" secondAttribute="trailing" constant="10" id="BOQ-NR-kp4"/>
+                            <constraint firstItem="Plt-Zn-p0e" firstAttribute="top" secondItem="M2N-Lw-CuB" secondAttribute="bottom" constant="10" id="Cyi-IE-haW"/>
+                            <constraint firstItem="Px0-Vz-58y" firstAttribute="top" secondItem="hhu-Z6-kux" secondAttribute="bottom" constant="10" id="D3w-yr-7l8"/>
+                            <constraint firstItem="DUN-OC-3LW" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="EMN-Gi-bA4"/>
+                            <constraint firstItem="fGk-VN-nik" firstAttribute="leading" secondItem="GyS-Oc-WOl" secondAttribute="trailing" constant="10" id="HYG-F3-rYh"/>
+                            <constraint firstItem="DUN-OC-3LW" firstAttribute="top" secondItem="VfC-AR-c2P" secondAttribute="bottom" constant="10" id="Hi2-bW-Ppv"/>
+                            <constraint firstItem="TdC-05-GNL" firstAttribute="top" secondItem="zvf-wi-PER" secondAttribute="bottom" constant="10" id="I4y-X5-4ls"/>
+                            <constraint firstItem="hoA-ui-rnq" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="I9F-tx-QaT"/>
+                            <constraint firstItem="NZ4-AX-TdD" firstAttribute="top" secondItem="48G-Gj-6TK" secondAttribute="bottom" constant="10" id="JfS-AN-t41"/>
+                            <constraint firstItem="zvf-wi-PER" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="LbM-6o-NwP"/>
+                            <constraint firstItem="zvf-wi-PER" firstAttribute="top" secondItem="H2P-cG-uf4" secondAttribute="bottom" constant="10" id="MJe-bD-cou"/>
+                            <constraint firstItem="hoA-ui-rnq" firstAttribute="top" secondItem="cap-vI-d8c" secondAttribute="bottom" constant="10" id="MTB-z0-Wyq"/>
+                            <constraint firstItem="VfC-AR-c2P" firstAttribute="leading" secondItem="Px0-Vz-58y" secondAttribute="trailing" constant="10" id="Q9g-dh-TPf"/>
+                            <constraint firstItem="M2N-Lw-CuB" firstAttribute="leading" secondItem="VfC-AR-c2P" secondAttribute="trailing" constant="10" id="S4K-JP-YDr"/>
+                            <constraint firstItem="KSx-Oo-ALg" firstAttribute="leading" secondItem="cap-vI-d8c" secondAttribute="trailing" constant="10" id="SuX-qN-mvn"/>
+                            <constraint firstItem="NZ4-AX-TdD" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Yi2-Mn-AiU"/>
+                            <constraint firstItem="cap-vI-d8c" firstAttribute="top" secondItem="xI0-Rd-uX2" secondAttribute="bottom" constant="10" id="Ytn-YF-7Bv"/>
+                            <constraint firstItem="xI0-Rd-uX2" firstAttribute="top" secondItem="Px0-Vz-58y" secondAttribute="bottom" constant="10" id="Ywd-mi-4Af"/>
+                            <constraint firstItem="KSx-Oo-ALg" firstAttribute="top" secondItem="DUN-OC-3LW" secondAttribute="bottom" constant="10" id="ZQc-yh-J3n"/>
+                            <constraint firstItem="M2N-Lw-CuB" firstAttribute="top" secondItem="NZ4-AX-TdD" secondAttribute="bottom" constant="10" id="aVi-QA-JCI"/>
+                            <constraint firstItem="NZ4-AX-TdD" firstAttribute="top" secondItem="Oqr-wL-Jkm" secondAttribute="bottom" constant="10" id="auG-xw-lGK"/>
+                            <constraint firstItem="zvf-wi-PER" firstAttribute="leading" secondItem="NZ4-AX-TdD" secondAttribute="trailing" constant="10" id="baG-id-esL"/>
+                            <constraint firstItem="xI0-Rd-uX2" firstAttribute="top" secondItem="Px0-Vz-58y" secondAttribute="bottom" constant="10" id="beo-yl-4Ch"/>
+                            <constraint firstItem="48G-Gj-6TK" firstAttribute="leading" secondItem="Oqr-wL-Jkm" secondAttribute="trailing" constant="10" id="fPP-Ei-QT6"/>
+                            <constraint firstItem="Plt-Zn-p0e" firstAttribute="top" secondItem="M2N-Lw-CuB" secondAttribute="bottom" constant="10" id="g8K-dW-FA4"/>
+                            <constraint firstItem="fTh-8e-rbt" firstAttribute="top" secondItem="gMD-J6-4m3" secondAttribute="bottom" constant="10" id="i0p-DO-NcX"/>
+                            <constraint firstItem="hhu-Z6-kux" firstAttribute="top" secondItem="tlW-ac-CFM" secondAttribute="bottom" constant="10" id="ifx-Cu-7a4"/>
+                            <constraint firstItem="zjM-iQ-jWy" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="irw-DK-TEj"/>
+                            <constraint firstItem="hhu-Z6-kux" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="jAe-Pc-sbl"/>
+                            <constraint firstItem="Vta-Pr-2Oz" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="jD2-1L-jwq"/>
+                            <constraint firstItem="GyS-Oc-WOl" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="jih-Hq-Jo3"/>
+                            <constraint firstItem="H2P-cG-uf4" firstAttribute="leading" secondItem="48G-Gj-6TK" secondAttribute="trailing" constant="10" id="kEs-zK-RSP"/>
+                            <constraint firstItem="M2N-Lw-CuB" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="30.300000000000001" id="lwS-W0-Q6F"/>
+                            <constraint firstItem="NZ4-AX-TdD" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="o5c-0G-pXO"/>
+                            <constraint firstItem="hhu-Z6-kux" firstAttribute="leading" secondItem="B2I-UG-dFJ" secondAttribute="trailing" constant="10" id="oKD-aJ-tJa"/>
+                            <constraint firstItem="Vta-Pr-2Oz" firstAttribute="leading" secondItem="zvf-wi-PER" secondAttribute="trailing" constant="10" id="qlc-vu-3On"/>
+                            <constraint firstItem="gMD-J6-4m3" firstAttribute="top" secondItem="zjM-iQ-jWy" secondAttribute="bottom" constant="10" id="rW8-Hl-wVW"/>
+                            <constraint firstItem="48G-Gj-6TK" firstAttribute="top" secondItem="fGk-VN-nik" secondAttribute="bottom" constant="10" id="spW-aK-Y4Z"/>
+                            <constraint firstItem="Oqr-wL-Jkm" firstAttribute="top" secondItem="fTh-8e-rbt" secondAttribute="bottom" constant="10" id="tr6-gy-ZTc"/>
+                            <constraint firstItem="GyS-Oc-WOl" firstAttribute="leading" secondItem="fTh-8e-rbt" secondAttribute="trailing" constant="10" id="txE-aT-uDM"/>
+                            <constraint firstItem="VfC-AR-c2P" firstAttribute="top" secondItem="NZ4-AX-TdD" secondAttribute="bottom" constant="10" id="vDu-rS-5cl"/>
+                            <constraint firstItem="TdC-05-GNL" firstAttribute="leading" secondItem="M2N-Lw-CuB" secondAttribute="trailing" constant="10" id="wq7-29-9ET"/>
+                            <constraint firstItem="KSx-Oo-ALg" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="30.5" id="xnC-Ii-tnd"/>
+                            <constraint firstItem="48G-Gj-6TK" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="30.5" id="zrE-p8-zxk"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="12" y="76"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
