@@ -17,8 +17,8 @@ class ViewController: UIViewController {
     @IBAction func switchValueChanged (sender: UISwitch) {
         for button in self.view.subviews {
             if button.tag == 3 {
-                let switchButtontest: UISwitch = button as! UISwitch
-                switchButtontest.setOn(sender.isOn ? true : false, animated: true)
+                let switchButton: UISwitch = button as! UISwitch
+                switchButton.setOn(sender.isOn ? true : false, animated: true)
             }
         }
     }
