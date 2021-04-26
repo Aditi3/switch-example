@@ -18,394 +18,394 @@
                         <subviews>
                             <switch opaque="NO" tag="28" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mJs-2O-xfa">
                                 <rect key="frame" x="5.5" y="186.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="20" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="9NC-vP-rm4">
                                 <rect key="frame" x="95" y="227.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="21" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WEp-kc-3yR">
                                 <rect key="frame" x="36" y="227.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="15" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="b7r-OY-CaX">
                                 <rect key="frame" x="64.5" y="268.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="4" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="End-CT-Ofl">
                                 <rect key="frame" x="241.5" y="350.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="5" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="e74-aw-jo8">
                                 <rect key="frame" x="182.5" y="350.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="1" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cN3-Z3-Pg8">
                                 <rect key="frame" x="182.5" y="432.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                                 <connections>
                                     <action selector="switchValueChangedWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="n89-13-0Ri"/>
                                 </connections>
                             </switch>
                             <switch opaque="NO" tag="22" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ud2-Qt-yff">
                                 <rect key="frame" x="359.5" y="186.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="24" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="jQm-zL-HOI">
                                 <rect key="frame" x="241.5" y="186.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="25" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fK7-6S-9ZH">
                                 <rect key="frame" x="182.5" y="186.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="13" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="EYo-M3-DSV">
                                 <rect key="frame" x="182.5" y="268.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="27" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="K6s-G6-A07">
                                 <rect key="frame" x="64.5" y="186.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="14" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="veh-wF-2GG">
                                 <rect key="frame" x="123.5" y="268.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="12" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Zy4-UB-dsh">
                                 <rect key="frame" x="241.5" y="268.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="9" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="xIx-Uj-Tc2">
                                 <rect key="frame" x="154" y="309.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="11" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="rb4-nL-j5z">
                                 <rect key="frame" x="300.5" y="268.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="15" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="VTZ-WC-5WC">
                                 <rect key="frame" x="64.5" y="596.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="13" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="k62-Pr-Iqg">
                                 <rect key="frame" x="182.5" y="596.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="14" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YK6-rH-7ic">
                                 <rect key="frame" x="123.5" y="596.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="12" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7C7-WE-BuC">
                                 <rect key="frame" x="241.5" y="596.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="11" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ZCL-lD-8Bh">
                                 <rect key="frame" x="300.5" y="596.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kSw-2X-X24">
                                 <rect key="frame" x="154" y="391.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="8" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tVg-kd-Ylt">
                                 <rect key="frame" x="213" y="309.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="2" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="del-eR-Os8">
                                 <rect key="frame" x="213" y="391.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="17" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="I3j-nT-oby">
                                 <rect key="frame" x="272" y="227.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="10" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lZD-x6-EHe">
                                 <rect key="frame" x="95" y="309.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="6" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="320-yM-PND">
                                 <rect key="frame" x="123.5" y="350.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="18" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Jfa-4D-v12">
                                 <rect key="frame" x="213" y="227.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="26" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="aGD-MR-mZU">
                                 <rect key="frame" x="123.5" y="186.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="16" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="jVG-rB-EOQ">
                                 <rect key="frame" x="331" y="227.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="23" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="VAI-NU-2mO">
                                 <rect key="frame" x="300.5" y="186.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="19" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="us8-N0-RoK">
                                 <rect key="frame" x="154" y="227.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="7" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="TqK-zG-ro4">
                                 <rect key="frame" x="272" y="309.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="28" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="pQh-lz-0N4">
                                 <rect key="frame" x="5.5" y="678.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="22" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="VPD-7n-OAX">
                                 <rect key="frame" x="359.5" y="678.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="24" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Udr-XO-euS">
                                 <rect key="frame" x="241.5" y="678.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="25" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="jJH-xp-Cda">
                                 <rect key="frame" x="182.5" y="678.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="27" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="G5o-Hk-sSz">
                                 <rect key="frame" x="64.5" y="678.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="23" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ZxA-JY-z0t">
                                 <rect key="frame" x="300.5" y="678.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="20" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="VZc-y8-r5g">
                                 <rect key="frame" x="95" y="637.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="21" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="R9Y-Sc-OwD">
                                 <rect key="frame" x="36" y="637.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="17" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Jou-Me-MNK">
                                 <rect key="frame" x="272" y="637.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="18" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="13h-Ej-FeO">
                                 <rect key="frame" x="213" y="637.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="16" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="dGa-RI-6YK">
                                 <rect key="frame" x="331" y="637.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="19" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="9iL-Fa-yiK">
                                 <rect key="frame" x="154" y="637.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="26" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="8lV-FL-t17">
                                 <rect key="frame" x="123.5" y="678.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="35" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="uPY-Pm-UPB">
                                 <rect key="frame" x="5.5" y="719.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="29" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="odO-Zk-efE">
                                 <rect key="frame" x="359.5" y="719.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="31" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ad6-nT-wbX">
                                 <rect key="frame" x="241.5" y="719.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="32" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="XKs-8K-Iew">
                                 <rect key="frame" x="182.5" y="719.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="34" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="CVZ-T8-TQs">
                                 <rect key="frame" x="64.5" y="719.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="30" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="jgy-Db-KLb">
                                 <rect key="frame" x="300.5" y="719.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="33" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="yCV-FZ-5U8">
                                 <rect key="frame" x="123.5" y="719.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="9" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="AzG-MD-WGD">
                                 <rect key="frame" x="154" y="555.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="8" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="8fS-PS-YPM">
                                 <rect key="frame" x="213" y="555.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="10" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="rqV-Pf-NEi">
                                 <rect key="frame" x="95" y="555.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="7" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="0TS-Kw-1Mc">
                                 <rect key="frame" x="272" y="555.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="4" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="IGD-rQ-jxL">
                                 <rect key="frame" x="241.5" y="514.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="5" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="r0O-uU-bBl">
                                 <rect key="frame" x="182.5" y="514.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="6" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="pwh-O9-hVE">
                                 <rect key="frame" x="123.5" y="514.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fgu-Rx-2NU">
                                 <rect key="frame" x="154" y="473.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="2" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ojT-TW-bjy">
                                 <rect key="frame" x="213" y="473.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="35" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tgi-fk-XaQ">
                                 <rect key="frame" x="5.5" y="145.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="29" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="l4X-Th-UfZ">
                                 <rect key="frame" x="359.5" y="145.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="31" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hIb-Zy-TVk">
                                 <rect key="frame" x="241.5" y="145.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="32" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="OJu-0K-Qbb">
                                 <rect key="frame" x="182.5" y="145.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="34" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="0N6-9I-jKr">
                                 <rect key="frame" x="64.5" y="145.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="33" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7At-pP-Ubc">
                                 <rect key="frame" x="123.5" y="145.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="30" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="IYo-Bg-LSp">
                                 <rect key="frame" x="300.5" y="145.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="42" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="HnD-aS-sB5">
                                 <rect key="frame" x="5.5" y="104.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="36" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="OkV-Ly-rWT">
                                 <rect key="frame" x="359.5" y="104.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="38" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="83l-dw-ecv">
                                 <rect key="frame" x="241.5" y="104.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="39" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="N5v-j8-Nf0">
                                 <rect key="frame" x="182.5" y="104.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="41" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="yzC-TY-0ZW">
                                 <rect key="frame" x="64.5" y="104.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="40" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="V3v-V6-KDN">
                                 <rect key="frame" x="123.5" y="104.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="37" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="QQf-V5-PhH">
                                 <rect key="frame" x="300.5" y="104.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="42" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ufw-Sh-bOz">
                                 <rect key="frame" x="5.5" y="760.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="36" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1sh-4G-0ye">
                                 <rect key="frame" x="359.5" y="760.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="38" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Eqv-WQ-j2x">
                                 <rect key="frame" x="241.5" y="760.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="39" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="b8X-lO-7RD">
                                 <rect key="frame" x="182.5" y="760.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="41" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lCa-9s-BcU">
                                 <rect key="frame" x="64.5" y="760.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="40" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Xhs-9j-75k">
                                 <rect key="frame" x="123.5" y="760.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="37" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YsV-ec-VdA">
                                 <rect key="frame" x="300.5" y="760.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="49" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="j7W-32-ZBB">
                                 <rect key="frame" x="5.5" y="63.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="43" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="0xF-7o-5vU">
                                 <rect key="frame" x="359.5" y="63.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="45" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="oAn-Lk-bKH">
                                 <rect key="frame" x="241.5" y="63.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="46" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="77E-nx-KiC">
                                 <rect key="frame" x="182.5" y="63.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="48" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="03p-IV-D70">
                                 <rect key="frame" x="64.5" y="63.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="47" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="FcC-Gt-LCl">
                                 <rect key="frame" x="123.5" y="63.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="44" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ewO-cK-aqs">
                                 <rect key="frame" x="300.5" y="63.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="49" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Mn8-Gh-IR9">
                                 <rect key="frame" x="5.5" y="801.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="43" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="dj9-e1-y9f">
                                 <rect key="frame" x="359.5" y="801.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="45" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="HBB-I2-gsl">
                                 <rect key="frame" x="241.5" y="801.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="46" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YFJ-Ek-aK3">
                                 <rect key="frame" x="182.5" y="801.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="48" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="C4A-ZU-K5q">
                                 <rect key="frame" x="64.5" y="801.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="47" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="m4g-cP-ai8">
                                 <rect key="frame" x="123.5" y="801.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                             <switch opaque="NO" tag="44" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="nxp-NS-he1">
                                 <rect key="frame" x="300.5" y="801.5" width="51" height="31"/>
-                                <color key="onTintColor" red="0.54509803921568623" green="0.0" blue="0.0" alpha="0.89803921568627454" colorSpace="calibratedRGB"/>
+                                <color key="onTintColor" red="0.46666666670000001" green="0.53333333329999999" blue="0.59999999999999998" alpha="0.8980392157" colorSpace="calibratedRGB"/>
                             </switch>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
